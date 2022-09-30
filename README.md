@@ -7,4 +7,4 @@ zmiana dokonana w first-btanch
 
 and third branch
 
-zmiana konfliktu na branchu main
+poprawa wspólna dla dwoch

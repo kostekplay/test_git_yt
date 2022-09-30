@@ -10,3 +10,5 @@ and third branchq
 poprawa wspólna dla dwoch
 
 kolejny blad poprawiony
+
+zmiany commitow

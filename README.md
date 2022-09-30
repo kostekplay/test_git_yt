@@ -5,7 +5,7 @@ dodanie linijki
 
 zmiana dokonana w first-btanch
 
-and third branch
+and third branchq
 
 poprawa wspólna dla dwoch
 

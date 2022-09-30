@@ -6,3 +6,5 @@ dodanie linijki
 zmiana dokonana w first-btanch
 
 and third branch
+
+sprawdzanie konfliktu 

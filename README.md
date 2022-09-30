@@ -9,4 +9,4 @@ and third branch
 
 poprawa wspólna dla dwoch
 
-main - powodowanie bledu
+kolejny blad poprawiony

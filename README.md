@@ -12,3 +12,5 @@ poprawa wspólna dla dwoch
 kolejny blad poprawiony
 
 zmiany commitow
+
+test delete one line

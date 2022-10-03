@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f60bb0b8-0005-4f51-9d1d-64f443a22c78" name="serverjacka" url="http://www.hepe.pl">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="192.168.1.180" port="22" sshConfigId="0c2f5ee6-edfe-4839-9e39-e8a96f5a6955" sshConfig="jacek@192.168.1.180:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

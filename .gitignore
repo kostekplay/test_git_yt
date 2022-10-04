@@ -1,3 +1,4 @@
 # gitignore
 index2.html
 # /test
+.idea/

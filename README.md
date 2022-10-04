@@ -13,4 +13,6 @@ kolejny blad poprawiony
 
 zmiany commitow
 
-test delete one line
+usunęłem jedna linijkę i w to miejsce dodalem nową
+
+dodaje linijke bo chce sprawdzic ammend
